@@ -1,3 +1,5 @@
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -73,3 +75,9 @@ body,
     @apply bg-background text-foreground;
   }
 }
+
+.ql-container{
+  font-size: 16px !important;
+}
+
+@import "~@uploadthing/react/styles.css";
