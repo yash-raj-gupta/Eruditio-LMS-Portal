@@ -69,9 +69,15 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ---
 
+## 🌐 Deployed Link
+
+Check out the live version of Eruditio [here](https://lms-portal-iota.vercel.app/).
+
+---
+
 ## 🤝 Contributing
 
-Contributions and feedback are welcome! Feel free to check out the [Eruditio GitHub repository](https://github.com/yash-raj-gupta/Eruditio) to report issues or submit pull requests.
+Contributions and feedback are welcome! Feel free to check out the [Eruditio GitHub repository](https://github.com/yash-raj-gupta/Eruditio-LMS-Portal) to report issues or submit pull requests.
 
 ---
 
