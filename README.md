@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎓 Eruditio ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-blue?style=flat&logo=clerk&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=flat&logo=prisma) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-lightgrey?style=flat) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## Getting Started
+Welcome to **Eruditio** – a comprehensive Learning Management System (LMS) portal designed for seamless course management. Powered by **Next.js**, **Clerk**, **MySQL (TiDB)**, **Prisma**, and a modern UI built with **ShadCN UI** and **Tailwind CSS**.
+
+---
+
+## 🚀 Getting Started
 
 First, run the development server:
 
@@ -18,19 +22,63 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+📋 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🎓 **Comprehensive LMS**: Manage courses, students, and instructors with ease.
+- 🔐 **Secure Authentication**: Integration with Clerk for secure login.
+- 💾 **MySQL Database**: MySQL database instance hosted on TiDB for fast and reliable data storage.
+- 🎨 **Modern UI Components**: Built with ShadCN UI for responsive and polished design.
+- ⚡ **Efficient Data Handling**: Prisma ORM powers seamless data operations.
+- 🌐 **Responsive Design**: Tailwind CSS ensures the app looks great on all devices.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠️ Scripts
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `dev`: Runs the development server.
+- `build`: Builds the application for production.
+- `start`: Starts the production server.
+- `lint`: Lints the codebase.
+- `postinstall`: Runs Prisma generate.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+## 📚 Learn More
+
+To learn more about the technologies used in **Eruditio**, check out these resources:
+
+- 📘 [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- 🛠️ [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🔑 [Clerk Documentation](https://clerk.dev/docs) - integrate secure user authentication.
+- 📙 [Prisma Documentation](https://www.prisma.io/docs) - understand Prisma ORM.
+- 💾 [TiDB Documentation](https://docs.pingcap.com/tidb/stable) - learn more about TiDB for MySQL database.
+- 🎨 [Tailwind CSS Documentation](https://tailwindcss.com/docs) - style your app with Tailwind CSS.
+- 🖼️ [ShadCN UI Documentation](https://shadcn.dev/docs) - explore responsive components with ShadCN UI.
+
+---
+
+## ☁️ Deploy on Vercel
+
+The easiest way to deploy **Eruditio** is with the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) by the creators of Next.js.
+
+Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---
+
+## 🤝 Contributing
+
+Contributions and feedback are welcome! Feel free to check out the [Eruditio GitHub repository](https://github.com/yash-raj-gupta/Eruditio) to report issues or submit pull requests.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/yash-raj-gupta/Eruditio/blob/master/LICENSE) file for more details.
+
+---
+
+Enjoy managing your courses with **Eruditio**! 🚀👨‍🏫
